@@ -5,6 +5,7 @@
   align-items: center;
   padding: 5rem;
   margin: 5rem;
+  gap: 1rem;
 }
 
 .wrapper__img {
